@@ -99,6 +99,20 @@ main{padding:30px 24px 60px}
   transform:translateY(-2px);
   box-shadow:0 5px 12px rgba(0,0,0,.12);
 }
+
+/* GENSH */
+.char-ode{
+  background:#99BFF6 !important;
+  color:#FFFFFF !important;
+  border-color:#5077CF !important;
+}
+
+.char-wri{
+  background:#302E3B !important;
+  color:#928F9F !important;
+  border-color:#501427 !important;
+}
+
 .note{font-size:13px;color:#697872;margin-top:25px}
 footer{border-top:1px solid var(--border);padding:25px;color:#697872}
 @media(max-width:900px){.places{grid-template-columns:repeat(3,1fr)}}
